@@ -1,7 +1,8 @@
 import java.util.Random;
 
 /**
- * @author akj20
+ * @author Anna Jordanous
+ * Version 0.1
  *
  */
 public class maximisingOnes {
